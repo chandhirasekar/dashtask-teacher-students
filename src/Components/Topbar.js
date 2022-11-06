@@ -8,9 +8,6 @@ import Navbar from 'react-bootstrap/Navbar';
 const Topbar = () => {
   return (
     <div>
-  
-       
-        
        <Navbar bg="warning" variant="warning">
         <Container>
           <Navbar.Brand href="#home">Teacher&Student Management</Navbar.Brand>
